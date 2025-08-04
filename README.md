@@ -28,7 +28,3 @@ All solutions are written in **C++**.
 ## Progress
 
 This repo is updated regularly as I solve more problems.
-
----
-
-Feel free to fork, suggest improvements, or ask questions!
