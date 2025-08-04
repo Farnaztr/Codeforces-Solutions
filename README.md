@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
- This repository contains my **accepted** solutions to various problems on [Codeforces](https://codeforces.com/).
+ This repository contains some of my **accepted** solutions to various problems on [Codeforces](https://codeforces.com/).
 
 ## Structure
 
