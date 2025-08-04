@@ -11,9 +11,6 @@ Primes from 1 to n.cpp
 ```
 
 
-You can search problems on Codeforces using the code in the filename (e.g., "A - Watermelon").
-
-
 ## Purpose of This Repo
 
 - **Practice Archive**: My personal record of problems I've solved.
