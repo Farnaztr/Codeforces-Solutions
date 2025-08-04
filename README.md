@@ -21,7 +21,3 @@ Primes from 1 to n.cpp
 ## Language
 
 All solutions are written in **C++**.
-
-## Progress
-
-This repo is updated regularly as I solve more problems.
