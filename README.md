@@ -10,7 +10,6 @@ Easy Fibonacci.cpp
 Primes from 1 to n.cpp
 ```
 
-
 ## Purpose of This Repo
 
 - **Practice Archive**: My personal record of problems I've solved.
