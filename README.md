@@ -18,4 +18,4 @@ Primes from 1 to n.cpp
 
 ## Language
 
-All solutions are written in **C++**.
+All solutions are written in **C++** And **Python**.
