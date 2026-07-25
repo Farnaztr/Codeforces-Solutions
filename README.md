@@ -16,6 +16,7 @@ Primes from 1 to n.cpp
 - **100% Accepted**: All solutions have passed the official Codeforces test cases.
 - **Learning Tool**: I use this repo to review concepts and track progress.
 
+
 ## Language
 
 All solutions are written in **C++** And **Python**.
